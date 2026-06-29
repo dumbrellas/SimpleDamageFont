@@ -2,5 +2,6 @@
 ## Title: Simple Damage Dont by |cFF69CCF0Fugazi|r
 ## Notes: Changes the floating combat text font
 ## Version: 1.0.0
+## SavedVariables: SimpleDamageFontDB
 
 simpledamagefont.lua
